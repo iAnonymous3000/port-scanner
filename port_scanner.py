@@ -14,7 +14,7 @@ class StorageManager:
         # Implement saving logic for different formats (console, file, db, etc.)
         pass
 
-class PortScanner:
+class PortScanner:  #class start
     """
     Performs port scanning on a given target host.
     """
